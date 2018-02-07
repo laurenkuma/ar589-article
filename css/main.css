@@ -6,17 +6,22 @@
   font-family: sans-serif;
   padding: 50px;
 }
+
+body {
+  background-color: #fbf1a9;
+}
+
 .tc {
   font-size: 3vw;
   font-family: Neuzeit Grotesk T;
   color: #a463f2;
-  background-color: #fbf1a9;
+  /* background-color: #fbf1a9; */
 }
 .tl {
-  font-size: 1.5vw;
+  font-size: 30px;
   font-family: Neuzeit Grotesk T;
   color: #a463f2;
-  background-color: #fbf1a9;
+  /* background-color: #fbf1a9; */
 }
 .tr {
   font-size: 1.5vw;
@@ -27,4 +32,8 @@
 .p {
   line-height: 1.6;
   font-size: 2vw;
+}
+
+.art {
+  width: "500px";
 }
